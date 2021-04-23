@@ -1,0 +1,30 @@
+S:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\bin\Debug\Mill.exe.config
+S:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\bin\Debug\Mill.exe
+S:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\bin\Debug\Mill.pdb
+S:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\obj\Debug\Mill.csprojAssemblyReference.cache
+S:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\obj\Debug\Mill.Properties.Resources.resources
+S:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\obj\Debug\Mill.csproj.GenerateResource.cache
+S:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\obj\Debug\Mill.csproj.CoreCompileInputs.cache
+S:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\obj\Debug\Mill.exe
+S:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\obj\Debug\Mill.pdb
+S:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\obj\Debug\Mill.Mill.resources
+E:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\bin\Debug\Mill.exe.config
+E:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\bin\Debug\Mill.exe
+E:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\bin\Debug\Mill.pdb
+E:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\obj\Debug\Mill.csprojAssemblyReference.cache
+E:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\obj\Debug\Mill.Mill.resources
+E:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\obj\Debug\Mill.Properties.Resources.resources
+E:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\obj\Debug\Mill.csproj.GenerateResource.cache
+E:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\obj\Debug\Mill.csproj.CoreCompileInputs.cache
+E:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\obj\Debug\Mill.exe
+E:\Órák\7. félév\Progkörny\Beadando\Mill\Mill\obj\Debug\Mill.pdb
+C:\Users\Joshua\Desktop\Beadando\Mill\Mill\bin\Debug\Mill.exe.config
+C:\Users\Joshua\Desktop\Beadando\Mill\Mill\bin\Debug\Mill.exe
+C:\Users\Joshua\Desktop\Beadando\Mill\Mill\bin\Debug\Mill.pdb
+C:\Users\Joshua\Desktop\Beadando\Mill\Mill\obj\Debug\Mill.csprojAssemblyReference.cache
+C:\Users\Joshua\Desktop\Beadando\Mill\Mill\obj\Debug\Mill.Mill.resources
+C:\Users\Joshua\Desktop\Beadando\Mill\Mill\obj\Debug\Mill.Properties.Resources.resources
+C:\Users\Joshua\Desktop\Beadando\Mill\Mill\obj\Debug\Mill.csproj.GenerateResource.cache
+C:\Users\Joshua\Desktop\Beadando\Mill\Mill\obj\Debug\Mill.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Desktop\Beadando\Mill\Mill\obj\Debug\Mill.exe
+C:\Users\Joshua\Desktop\Beadando\Mill\Mill\obj\Debug\Mill.pdb
